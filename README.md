@@ -5,9 +5,9 @@ Taken from [orbitals](http://www.orbitals.com/programs/pyexe.html)
 
 `py.exe` - Python 2.7.9 as a single, stand-alone executable with virtually all the standard libraries, plus pywin32-219 and psutil 2.1.3. Compiled with py2exe (see source below) on Windows XP. This should work on Windows XP and later. This works just like a full install of python, except you only need the one file. 9.9 Mb.
 
-`pyexe-2.7.9.10.zip` - Zip file of the stand-alone exectuable. 9.8 Mb.
+[pyexe-2.7.9.10.zip](https://github.com/Natinux/python27p/blob/master/pyexe-2.7.9.10.zip?raw=true) - Zip file of the stand-alone exectuable. 9.8 Mb.
 
-`pyexe-src-2.7.9.10.zip` - The source code for making the py.exe file. See the README.TXT within the zip file for details. Requires a full install Python 2.7.9, pywin32-219, psutil 2.1.3, setuptools.py, and py2exe. 10 kb.
+[pyexe-src-2.7.9.10.zip](https://github.com/Natinux/python27p/blob/master/pyexe-src-2.7.9.10.zip?raw=true) - The source code for making the py.exe file. See the README.TXT within the zip file for details. Requires a full install Python 2.7.9, pywin32-219, psutil 2.1.3, setuptools.py, and py2exe. 10 kb.
 
 # Rationale 
 
