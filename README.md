@@ -1,7 +1,7 @@
 # python27p
 Single-File Stand-alone Python 2.7.9 for Windows
 
-Taken from [orbitals](http://www.orbitals.com/programs/pyexe.html)
+Taken from [orbitals](http://www.orbitals.com/programs/pyexe.html), thanks David Manthey
 
 `py.exe` - Python 2.7.9 as a single, stand-alone executable with virtually all the standard libraries, plus pywin32-219 and psutil 2.1.3. Compiled with py2exe (see source below) on Windows XP. This should work on Windows XP and later. This works just like a full install of python, except you only need the one file. 9.9 Mb.
 
